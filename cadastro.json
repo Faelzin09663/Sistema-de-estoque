@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "role": "admin",
+        "nome": "Rafael Geovane Lopes Bie",
+        "email": "rafawloficial@gmail.com",
+        "telefone": "31987925783",
+        "senha": "4ff64468319686334508bf04fd0d6cdb55763393d110e5649cc2ad204959db4e",
+        "data_nascimento": "13/04/2010",
+        "idade": 15,
+        "filiacao": {
+            "pai": {
+                "nome": "ALberto da Conceicao Lopes Neto",
+                "email": "albertolopes95@gmail.com"
+            },
+            "mae": {
+                "nome": "Aline Tavares Lopes Bie",
+                "email": "biealine490@gmail.com"
+            }
+        },
+        "endereco": {
+            "cep": "30.880-600",
+            "logradouro": "Rua Rutilo",
+            "bairro": "Pindorama",
+            "localidade": "Belo Horizonte",
+            "uf": "MG",
+            "numero": "48"
+        }
+    }
+]

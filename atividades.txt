@@ -1,0 +1,8 @@
+[06/03/2026 13:21:50] CADASTRO: Usuário ID 1 (Rafael) criado.
+[06/03/2026 14:34:16] CADASTRO: ID 1 (Rafael Geovane Lopes Bie) como admin.
+[06/03/2026 14:35:20] CADASTRO: ID 2 (Joao Lucas) como usuario.
+[06/03/2026 14:40:38] CADASTRO: ID 1 (Rafael Geovane Lopes Bie) como admin.
+[06/03/2026 14:48:40] LOGOUT: rafawloficial@gmail.com saiu.
+[06/03/2026 15:40:12] EDIÇÃO: ID 1 alterado.
+[2026-03-06 16:19:21] Produto cadastrado: Video game Playstation 5 825gb (ID: 1)
+[2026-03-06 16:19:57] SAÍDA: Rafael Geovane Lopes Bie retirou 2x Video game Playstation 5 825gb.
