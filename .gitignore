@@ -1,2 +1,8 @@
 __pycache__/
 *.pyc
+
+# Banco de dados local
+database/
+
+# Arquivos de log
+logs/
