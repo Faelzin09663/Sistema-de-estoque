@@ -148,7 +148,7 @@ sistema-de-estoque/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/sistema-de-estoque.git](https://github.com/Faelzin09663/Sistema-de-estoque
+git clone https://github.com/Faelzin09663/Sistema-de-estoque
 cd sistema-de-estoque
 
 # 2. Instale as dependências
