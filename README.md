@@ -148,7 +148,7 @@ sistema-de-estoque/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/sistema-de-estoque.git
+git clone https://github.com/seu-usuario/sistema-de-estoque.git](https://github.com/Faelzin09663/Sistema-de-estoque
 cd sistema-de-estoque
 
 # 2. Instale as dependências
@@ -162,7 +162,7 @@ python main.py
 
 | Campo | Valor |
 |-------|-------|
-| **E-mail** | `rafawloficial@gmail.com` |
+| **E-mail** | `Seu email` |
 | **Senha** | *(definida no cadastro)* |
 
 ---
