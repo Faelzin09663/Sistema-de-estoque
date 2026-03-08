@@ -18,7 +18,7 @@ LOG_ESTOQUE = os.path.join(_PROJECT_ROOT, "logs", "atividades_estoque.txt")
 TOKEN_FILE = os.path.join(_PROJECT_ROOT, "database", "vendedor_token.json")
 
 # --- Admin padrão ---
-ADMIN_EMAIL = "rafawloficial@gmail.com"
+ADMIN_EMAIL = "Seu email aqui para ser admin"
 
 # --- GUI ---
 APP_TITLE = "Sistema ERP Corporativo"
